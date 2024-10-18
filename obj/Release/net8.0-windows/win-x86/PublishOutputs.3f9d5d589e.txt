@@ -1,0 +1,7 @@
+D:\CodingProjecs\CalendarApp\CalendarApp.pdb
+D:\CodingProjecs\CalendarApp\D3DCompiler_47_cor3.dll
+D:\CodingProjecs\CalendarApp\PenImc_cor3.dll
+D:\CodingProjecs\CalendarApp\PresentationNative_cor3.dll
+D:\CodingProjecs\CalendarApp\vcruntime140_cor3.dll
+D:\CodingProjecs\CalendarApp\wpfgfx_cor3.dll
+D:\CodingProjecs\CalendarApp\CalendarApp.exe
